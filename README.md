@@ -1,5 +1,5 @@
 # Info
--
+The hardware design was done by building the block diagram using the IP Integrator in Vivado.
 
 # Notes
 
